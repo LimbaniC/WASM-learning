@@ -1,0 +1,1 @@
+C:\Users\limba\Desktop\WASMDojo\CH7-WASM-containers\hello-wasm-container\target\wasm32-wasip1\release\hello-wasm-container.wasm: C:\Users\limba\Desktop\WASMDojo\CH7-WASM-containers\hello-wasm-container\src\main.rs
